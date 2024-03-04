@@ -1,5 +1,12 @@
 # Country unit colors.
 
+# Puerto Rico
+PUR = {
+    color1= { 0 255 239  }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
 # Sweden
 SWE = {
     color1= { 62 122 189  }
