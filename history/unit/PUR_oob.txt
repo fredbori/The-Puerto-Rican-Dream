@@ -1,0 +1,10 @@
+army = {
+	name = "Ejercito De Puerto Rico"
+	location = 2222
+	regiment = {
+		name= "1.COQUIES"
+		type = irregular
+		home = 2222
+	}
+}
+
